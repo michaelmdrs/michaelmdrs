@@ -4,7 +4,7 @@
 - 🌱 Estou estudando Python, Javascript SQL
 - 📫 Contate-me no email: mackellsud@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fato curioso: Fui rejeitado de uma entrevista para estágio por não saber Assembly. 🤔
+- ⚡ Fato curioso: Fui rejeitado de uma entrevista para estágio por não saber dançar. 🤔
 
 <div>
   <a href="https://github.com/michaelmdrs">
