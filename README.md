@@ -1,7 +1,7 @@
 ### Ops, olá! eu sou o Michael 👋
 
 - 🔭 No momento não trabalho com desenvolvimento, mas estou buscando oportunidades na área de Fronted 👨‍💻
-- 🌱 Estou estudando Python, Javascript SQL
+- 🌱 Estou estudando Python, Javascript, SQL, HTML5, CSS3.
 - 📫 Contate-me no email: mackellsud@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fato curioso: Fui rejeitado de uma entrevista para estágio por não saber dançar. 🤔
