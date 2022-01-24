@@ -1,6 +1,6 @@
 ### Ops, olá! eu sou o Michael 👋
 
-- 🔭 No momento não trabalho com desenvolvimento, mas estou buscando oportunidades na área de Fronted 👨‍💻
+- 🔭 No momento não trabalho com desenvolvimento, mas estou buscando oportunidades na área de Frontend 👨‍💻
 - 🌱 Venho estudando, HTML5, CSS3, Javacript, Python, SQL.
 - 📫 Contate-me no email: mackellsud@gmail.com
 - 😄 Pronouns: ele/dele
