@@ -1,10 +1,9 @@
 ### Ops, olá! eu sou o Michael 👋
 
-- 🔭 No momento não trabalho com desenvolvimento, mas estou buscando oportunidades na área de Frontend 👨‍💻
+- 🔭 No momento não trabalho diretamento com desenvolvimento, mas estou buscando oportunidades na área de desenvolvimento Front-end 👨‍💻
 - 🌱 Venho estudando, HTML5, CSS3, Javacript, Python, SQL.
 - 📫 Contate-me no email: mackellsud@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fato curioso: Fui rejeitado de uma entrevista para estágio por não saber dançar. 🤔
 
 <div>
   <a href="https://github.com/michaelmdrs">
