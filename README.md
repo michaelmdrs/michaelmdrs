@@ -1,4 +1,4 @@
-### Ops, olá! eu sou o Michael 👋
+### Eu sou o Michael 👋
 
 - 🔭 No momento não trabalho diretamento com desenvolvimento, mas estou buscando oportunidades na área de desenvolvimento Front-end 👨‍💻
 - 🌱 Venho estudando, HTML5, CSS3, Javacript, Python, SQL.
