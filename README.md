@@ -1,5 +1,7 @@
 <img src="https://camo.githubusercontent.com/db73b7484d1099b7f36b790b9c492d7a7b7a10a81b3595e700600fecc44fb8b6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d23464338454143266865696768743d3530302673656374696f6e3d68656164657226746578743d63617073756c6525323072656e64657226666f6e7453697a653d3930" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#FC8EAC&amp;height=500&amp;section=header&amp;text=capsule%20render&amp;fontSize=90" style="max-width: 100%;">
 
+# Michael Santos 👋
+<hr>
 
 ## 🚀 Sobre mim
 Desenvolvedor Front-end de Caicó-RN, Brasil. Meu primeiro "Hello World" foi no ano de 2018 quando tive contato com HTML, CSS e um pouco de JavaScript, atráves do [Curso em Vídeo](https://www.youtube.com/cursoemvideo), quando estava iniciando minhas buscas pela área de desenvolvimento 🤓. \
