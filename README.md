@@ -9,7 +9,7 @@ Apaixonado por games e tecnologia, alguns dos meus hobbies são jogos, assistir,
 <!-- # Olá, sou o Michael Santos 👋 -->
 
 <!-- - 🔭 No momento não trabalho diretamento com desenvolvimento, mas estou buscando oportunidades na área de desenvolvimento Front-end 👨‍💻 -->
-<p> 🌱 Venho estudando, HTML5, CSS3, Javacript, Python, SQL.</p>
+<p> 🌱 Venho estudando, HTML5, CSS3, Javacript, React, Python e SQL.</p>
 
 
 <div>
