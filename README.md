@@ -1,7 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 <h1>Michael Santos 👋</h1>
 <p align="left"> 
   Desenvolvedor Front-end de Caicó-RN, Brasil. Meu primeiro "Hello World" foi no ano de 2018 quando tive contato com HTML, CSS e um pouco de JavaScript, atráves do <a href="https://www.youtube.com/cursoemvideo">Curso em Vídeo</a>, quando estava iniciando minhas buscas pela área de desenvolvimento 🤓.<br>
+  
   🔭 No momento não trabalho diretamento com desenvolvimento, mas estou buscando oportunidades na área de desenvolvimento Front-end 👨‍💻
 </p>
 
