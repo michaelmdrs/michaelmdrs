@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, CSS3, HTML5, NodeJS, React, VueJS, Python e SQL</strong>
+  🤓 Linguagens: <strong>Javascript, CSS3, HTML5, NodeJS, React, VueJS, Python e SQL</strong>
 </p>
 
 <p align="left">
