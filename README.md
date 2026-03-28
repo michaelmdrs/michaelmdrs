@@ -18,13 +18,12 @@
 Aplicação front-end que simula a interface da Netflix.  
 - **Tecnologias:** React, CSS3  
 - **Funcionalidades:** listagem dinâmica de filmes, design responsivo  
-- [🔗 Repositório](link-do-repo) | ![screenshot](link-da-imagem)
-
+- [🔗 Repositório](https://github.com/michaelmdrs/projeto-netflix/tree/master) | ![screenshot](https://github.com/michaelmdrs/projeto-netflix/blob/master/img/home.png)
 ### 📌 eFinances
 Dashboard para controle financeiro pessoal.  
 - **Tecnologias:** Node.js, React, SQL  
 - **Funcionalidades:** autenticação, CRUD de transações, gráficos interativos  
-- [🔗 Repositório](link-do-repo) | ![screenshot](link-da-imagem)
+- [🔗 Repositório](https://github.com/michaelmdrs/eFinances/tree/master) | ![screenshot](https://github.com/michaelmdrs/eFinances/blob/master/assets/Captura%20de%20tela%202026-03-28%20093328.png)
 
 ---
 
